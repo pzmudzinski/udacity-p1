@@ -1,0 +1,29 @@
+{
+  "movies": [
+    {
+      "title":"Toy Story",
+      "poster_url":"http://www.gstatic.com/tv/thumb/movieposters/17420/p17420_p_v7_aa.jpg",
+      "trailer_url":"https://www.youtube.com/watch?v=KYz2wyBy3kc"
+    },
+    {
+      "title":"Avatar",
+      "poster_url":"http://t0.gstatic.com/images?q=tbn:ANd9GcQCfmvrE4fMo2cd8esc7mDZPtFSJThAujddMPkRtti1_ij6u-jp",
+      "trailer_url":"https://www.youtube.com/watch?v=5PSNL1qE6VY"
+    },
+    {
+      "title":"Hellraiser",
+      "poster_url":"http://upload.wikimedia.org/wikipedia/en/c/c4/Hellraiser_poster.png",
+      "trailer_url":"https://www.youtube.com/watch?v=P7TWm3Akw-s"
+    },
+    {
+      "title":"Casino Royale",
+      "poster_url":"http://moviesmedia.ign.com/movies/image/object/055/055899/CR_PRD_CROP.jpg",
+      "trailer_url":"https://www.youtube.com/watch?v=fl5WHj0bZ2Q"
+    },
+    {
+      "title":"The Dark Knight Rises",
+      "poster_url":"http://1.fwcdn.pl/po/67/56/506756/7476576.3.jpg",
+      "trailer_url":"https://www.youtube.com/watch?v=g8evyE9TuYk"
+    }
+  ]
+}
